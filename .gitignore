@@ -3,4 +3,4 @@
 **/.pytest_cache
 venv
 allure_results
-**/geckodriver.log
+geckodriver.log
